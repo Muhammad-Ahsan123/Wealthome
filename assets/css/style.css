@@ -626,7 +626,7 @@ body {
 }
 .search-item .search-item-field {
   height: 76px;
-  padding: 40px 16px 12px;
+  padding: 3px 16px 12px;
   border-radius: var(--radius-medium);
   transition: var(--transition-duration-quick) var(--transition-easing-quick);
   cursor: pointer;
@@ -1270,7 +1270,7 @@ body {
   } */
 
   .search-bar {
-    grid-template-columns: 160px 220px 1fr max-content;
+    grid-template-columns: 160px 160px 1fr max-content;
     gap: 0;
   }
 
